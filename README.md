@@ -7,7 +7,7 @@
 ### I have also included the dataset (air_train.xlsx and air_test.xlsx) , the jupyter notebook(main code) file and the pickle file !
 
 # Demo Link
-### https://flight-price-prediction-model.herokuapp.com/
+### https://flight-price-predictionmlapp.herokuapp.com/
 
 # Deployment.
 ### Heroku
