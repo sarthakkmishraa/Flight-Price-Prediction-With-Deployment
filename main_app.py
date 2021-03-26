@@ -136,7 +136,7 @@ def main():
 
 
     #model
-    #model = open(r'C:\Users\MANISH SHARMA\Desktop\vscodes\main_flight_rfr.pkl', "rb")
+    #model = open(r'C:\Users\Sarthak\Desktop\Flight-Price-Prediction\main_flight_rfr.pkl', "rb")
     #rfr_model = pickle.load(model)
 
     rfr_model = pickle.load(open("main_flight_rfr.pkl", "rb"))
