@@ -161,10 +161,10 @@ def main():
         st.write("""    """)
 
         st.write(e)
-        st.write(''' ***Built by MANISH SHARMA***  ''') 
-        st.write(''' ***Insta*** : https://www.instagram.com/data_quest_ ''')
-        st.write(''' ***Linkedin*** : https://www.linkedin.com/in/manish-sharma-355ba3189/ ''')
-        st.write(''' ***Github*** : https://github.com/MANISH007700 ''')
+        st.write(''' ***Built by SARTHAK MISHRA***  ''') 
+        st.write(''' ***Insta*** : https://www.instagram.com/sarthakkmishraa/ ''')
+        st.write(''' ***Linkedin*** : https://www.linkedin.com/in/sarthak-mishra-31909a172/ ''')
+        st.write(''' ***Github*** : https://github.com/sarthakkmishraa/ ''')
     
 
 
